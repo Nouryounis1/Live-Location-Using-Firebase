@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528610308631",
+    "project_id": "mutli-service-app",
+    "storage_bucket": "mutli-service-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528610308631:android:786fb2e639b8951314a252",
+        "android_client_info": {
+          "package_name": "com.example.mutli_service_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528610308631-vc5l5j08l4oolel4smn4pq3hovu66pl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3OvyHFFsr69NJMP8WosenRciVl0dh_E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528610308631-vc5l5j08l4oolel4smn4pq3hovu66pl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
